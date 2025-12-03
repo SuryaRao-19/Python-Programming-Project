@@ -1,0 +1,11 @@
+Date,Temperature,Rainfall,Humidity,Month,Season
+2024-01-01,26.0,0.0,70.0,January,Winter
+2024-01-02,27.0,5.0,72.0,January,Winter
+2024-01-03,30.25,2.0,68.0,January,Winter
+2024-01-04,29.0,0.0,75.0,January,Winter
+2024-01-05,30.0,10.0,75.66666666666667,January,Winter
+2024-02-01,31.0,0.0,80.0,February,Winter
+2024-02-02,32.0,0.0,82.0,February,Winter
+2024-02-03,33.0,0.0,78.0,February,Winter
+2024-02-04,30.25,4.0,77.0,February,Winter
+2024-02-05,34.0,1.0,79.0,February,Winter
